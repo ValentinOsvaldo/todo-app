@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://valentinosvaldo.github.io/todo-app">
+    <a href="https://todo-app-lyart-chi.vercel.app/">
       Demo
     </a>
     <span> | </span>
