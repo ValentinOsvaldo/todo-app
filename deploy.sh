@@ -17,7 +17,7 @@ git checkout -b main
 git add -A
 git commit -m 'deploy'
 
-# if you are deploying to https://valentinosvaldo.github.io/todo-app
-git push -f git@github.com:valentinosvaldo/todo-app.git main:gh-pages
+# if you are deploying to 
+# git push -f git@github.com:valentinosvaldo/todo-app.git main:gh-pages
 
 cd -
