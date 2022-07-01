@@ -14,6 +14,9 @@ export const AddTodo = () => {
 
   const addTodo = (e) => {
     e.preventDefault();
+
+    if (todo.length === 0) return;
+
     onAddTodo({
       ...formValues,
       id: new Date().getTime(),
